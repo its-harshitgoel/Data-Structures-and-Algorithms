@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class camelCase {
     //determine the number of words
-    public static int camelCase(String s) {
+    public static int countWords(String s) {
         int count = 1;
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
@@ -17,7 +17,7 @@ public class camelCase {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
-        System.out.println(camelCase(s));
+        System.out.println(countWords(s));
         sc.close();
     }
 }

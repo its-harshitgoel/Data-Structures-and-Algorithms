@@ -1,0 +1,1 @@
+{"name":"Local: Main","url":"/home/harshit/Desktop/DSA_Journey/Questions/String/Main.java","tests":[{"id":1726316613447,"input":"2 4\n1 M\n1 M\n2 F\n2 M","output":"Yes\nNo\nNo\nYes\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/harshit/Desktop/DSA_Journey/Questions/String/Main.java","group":"local","local":true}
